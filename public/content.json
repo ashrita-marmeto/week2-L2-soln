@@ -10,30 +10,30 @@
   },
   "sectionBlocks": [
     {
-      "heading": "<span style='color: white; font-weight: bold;'>Exquisite Watches <br>Gold Luxury,</span>  <span style='color: black; font-weight: 900;'>Choose Us</span>",
+      "heading": "<span style='color: white; font-weight: bold;'>Exquisite Watches</span> <br><span style='color: white; font-size: smaller'>Gold Luxury,</span>  <span style='color: black; font-weight: 900; font-size: smaller;'>Choose Us</span>",
       "description": "Discover the Perfect Watch for Every Occasion and Elevate Your Style with Timeless Elegance and Precision Craftsmanship - watch",
-      "price": "$499.00",
+      "price": "$ 499.00",
       "media": "./images/watch1.png",
       "bgGradient": "linear-gradient(105.54deg, #F4A764 -2.93%, #FFDEC2 72.14%)"
     },
     {
-      "heading": "<span style='color: white; font-weight: bold;'>Dainty Timepieces <br> Silver Luxury,</span>  <span style='color: black; font-weight: 900;'>Choose Us</span>",
+      "heading": "<span style='color: white; font-weight: bold;'>Dainty Timepieces</span> <br><span style='color: white; font-size: smaller'>Silver Luxury,</span>  <span style='color: black; font-weight: 900; font-size: smaller;'>Choose Us</span>",
       "description": "Explore the Ideal Timepiece for Any Moment and Enhance Your Style with Timeless Sophistication and Impeccable Craftsmanship - timepiece",
-      "price": "$469.00",
+      "price": "$ 469.00",
       "media": "./images/watch2.png",
       "bgGradient": "linear-gradient(105.54deg, #ADB0B0 -2.93%, #E1E1E1 72.14%)"
     },
     {
-      "heading": "<span style='color: white; font-weight: bold;'>Elegant Timepieces <br>Choose Luxury,</span>  <span style='color: black; font-weight: 900;'>Choose Us</span>",
+      "heading": "<span style='color: white; font-weight: bold;'>Elegant Timepieces</span> <br><span style='color: white; font-size: smaller'>Choose Luxury,</span>  <span style='color: black; font-weight: 900; font-size: smaller;'>Choose Us</span>",
       "description": "Discover the Perfect Watch for Every Occasion and Elevate Your Style with Timeless Elegance and Precision Craftsmanship - watch",
-      "price": "$529",
+      "price": "$ 529",
       "media": "./images/watch3.png",
       "bgGradient": "linear-gradient(105.54deg, #30A357 -2.93%, #75E39A 72.14%)"
     },
     {
-      "heading": "<span style='color: white; font-weight: bold;'>Refined Timepieces <br> Choose Luxury,</span>  <span style='color: black; font-weight: 900;'>Choose Us</span>",
+      "heading": "<span style='color: white; font-weight: bold;'>Refined Timepieces</span> <br><span style='color: white; font-size: smaller'>Choose Luxury,</span>  <span style='color: black; font-weight: 900; font-size: smaller;'>Choose Us</span>",
       "description": "Explore the Ideal Timepiece for Any Moment and Enhance Your Style with Timeless Sophistication and Impeccable Craftsmanship - timepiece",
-      "price": "$599",
+      "price": "$ 599",
       "media": "./images/watch4.png",
       "bgGradient": "linear-gradient(105.54deg, #F24F4F -2.93%, #FFA895 72.14%)"
     }
