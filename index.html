@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Watch Store</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.12/dist/css/splide.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <style>
+      .custom-arrow-class {
+          @apply text-xl bg-white;
+      }
+      .custom-prev-class {
+          @apply left-auto right-[40%] top-[40%] z-50;
+      }
+      .custom-next-class {
+          @apply right-[10%] top-[40%] z-50;
+      }
+  </style>
+
+  </head>
+  <body class="font-poppins text-gray-800 overflow-hidden transition-colors duration-500">
+    <header id="site-header" class="flex justify-between items-center px-10 py-5">
+      <div class="logo-container">
+        <img src="" alt="logo" class="h-10">
+      </div>
+      <nav>
+        <ul id="nav-menu" class="flex text-2xl font-light gap-10"></ul>
+      </nav>
+      <button id="cta-signup" class="px-5 py-2 bg-gray-800 text-white rounded-full cursor-pointer text-base">Sign Up</button>
+    </header>
+
+    <div class="main-container">
+      <div id="image-carousel" class="splide my-5 relative">
+        <div class="splide__track">
+          <ul class="splide__list" id="carousel-list">
+            </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="content-container">
+      
+    </div>
+
+    <div id="social-icons" class="social-icons-container">
+      
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.12/dist/js/splide.min.js"></script>
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>
