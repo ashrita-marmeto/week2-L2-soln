@@ -1,6 +1,6 @@
-import '../style.css';
+import './style.css';
 
-fetch('../content.json')
+fetch('content.json')
     .then(response => response.json())
     .then(jsonData => {
         loadHeader(jsonData.header);
